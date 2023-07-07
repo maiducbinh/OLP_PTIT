@@ -1,2 +1,2 @@
 # OLYMPIC_PTIT
-#### Ôn luyện Olympic Tin học và ICPC Quốc gia
+#### Ôn luyện Olympic Tin học và ICPC Vietnam National
